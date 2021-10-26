@@ -57,7 +57,8 @@ int main() {
 
         if(login == user && password_login == password){
           cout << "loged in Successfully!"<<endl;
-          cout << "you have exited from this code."<<endl<<"Run the code again to repeat this.";
+          cout << "Welcome"<<user<<"!";
+          
           break;
 
         }
