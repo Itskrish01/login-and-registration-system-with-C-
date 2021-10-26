@@ -9,7 +9,6 @@ using namespace std;
 int main() {
 
   string login;
-  int register1;
   string user;
   int login_times;
   string password_login;
